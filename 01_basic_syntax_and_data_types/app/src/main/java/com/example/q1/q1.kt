@@ -1,4 +1,3 @@
-package com.example.q1
 import kotlin.math.sqrt
 
 fun isPrime(num: Int) = when {
